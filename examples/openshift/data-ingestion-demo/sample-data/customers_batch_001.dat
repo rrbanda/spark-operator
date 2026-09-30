@@ -1,0 +1,101 @@
+customer_id|full_name|ssn|date_of_birth|email|phone|address|city|state|zip_code|risk_rating|account_type
+CUST-00001|Barbara Martinez|818-53-2738|1997-02-03|barbara.martinez@example.com|+1-549-157-1003|9062 Park St|Phoenix|NY|77570|HIGH|CHECKING
+CUST-00002|Linda Williams|514-44-3771|1996-06-06|linda.williams@example.com|+1-876-978-5186|3897 Main St|Dallas|IL|26807|HIGH|CREDIT
+CUST-00003|David Brown|278-43-9480|1975-06-08|david.brown@example.com|+1-311-509-6072|7860 Oak St|New York|IL|76655|HIGH|INVESTMENT
+CUST-00004|Patricia Taylor|103-32-4165|1977-11-03|patricia.taylor@example.com|+1-539-724-4628|6222 Main St|Dallas|NY|38556|LOW|CREDIT
+CUST-00005|James Brown|317-93-6557|1995-10-16|james.brown@example.com|+1-975-428-8646|998 Broadway St|Phoenix|TX|45238|MEDIUM|SAVINGS
+CUST-00006|Michael Johnson|944-88-1738|1951-11-26|michael.johnson@example.com|+1-923-633-1236|1568 Elm St|Dallas|TX|87058|MEDIUM|CHECKING
+CUST-00007|Michael Miller|505-62-8293|1992-08-18|michael.miller@example.com|+1-217-355-3474|4058 Park St|Dallas|AZ|64346|LOW|SAVINGS
+CUST-00008|Jennifer Taylor|337-65-6378|1985-07-06|jennifer.taylor@example.com|+1-288-373-2261|1505 Main St|New York|TX|65718|LOW|CHECKING
+CUST-00009|James Wilson|535-88-5847|1975-12-10|james.wilson@example.com|+1-562-434-8188|4190 Main St|Phoenix|IL|53767|HIGH|CREDIT
+CUST-00010|Barbara Williams|904-36-3064|1960-07-19|barbara.williams@example.com|+1-868-177-8636|9946 Main St|Houston|IL|13212|HIGH|CHECKING
+CUST-00011|Robert Martinez|376-86-7650|1973-12-17|robert.martinez@example.com|+1-343-167-2242|6364 Main St|New York|IL|90785|LOW|SAVINGS
+CUST-00012|Barbara Brown|234-44-5410|1953-11-15|barbara.brown@example.com|+1-532-900-8246|8489 Oak St|Dallas|TX|56699|LOW|CHECKING
+CUST-00013|William Davis|427-60-8687|1953-04-15|william.davis@example.com|+1-817-933-3874|7627 Elm St|Chicago|NY|52966|LOW|INVESTMENT
+CUST-00014|Elizabeth Smith|447-36-3362|1960-07-02|elizabeth.smith@example.com|+1-950-555-8589|4069 Park St|Chicago|TX|38614|HIGH|CREDIT
+CUST-00015|Elizabeth Miller|238-76-5580|1991-10-09|elizabeth.miller@example.com|+1-720-269-8663|8157 Elm St|Houston|IL|74527|LOW|CHECKING
+CUST-00016|Jennifer Williams|402-12-1597|1982-10-07|jennifer.williams@example.com|+1-701-596-3058|3268 Elm St|Dallas|AZ|47377|HIGH|SAVINGS
+CUST-00017|Michael Williams|775-95-2783|1953-07-06|michael.williams@example.com|+1-809-981-4989|631 Oak St|Phoenix|AZ|69808|MEDIUM|INVESTMENT
+CUST-00018|Elizabeth Rodriguez|341-23-7601|2000-08-01|elizabeth.rodriguez@example.com|+1-331-551-5974|8057 Park St|Houston|AZ|46110|LOW|INVESTMENT
+CUST-00019|Robert Miller|632-13-9532|1965-01-16|robert.miller@example.com|+1-925-967-6915|2742 Oak St|New York|TX|36823|HIGH|INVESTMENT
+CUST-00020|Robert Smith|356-67-1605|1973-01-22|robert.smith@example.com|+1-869-670-4886|9600 Oak St|Houston|TX|64730|LOW|CREDIT
+CUST-00021|William Johnson|238-99-6867|1968-07-26|william.johnson@example.com|+1-463-983-9143|5177 Elm St|Houston|TX|40213|LOW|SAVINGS
+CUST-00022|Mary Rodriguez|756-43-1708|1965-11-12|mary.rodriguez@example.com|+1-821-862-3077|8759 Oak St|Houston|AZ|31874|MEDIUM|CREDIT
+CUST-00023|Michael Williams|129-62-2261|1959-02-26|michael.williams@example.com|+1-288-589-7168|2981 Oak St|Houston|IL|63623|MEDIUM|SAVINGS
+CUST-00024|Michael Williams|254-80-1509|1983-06-24|michael.williams@example.com|+1-504-434-4313|4721 Elm St|New York|AZ|39833|LOW|INVESTMENT
+CUST-00025|William Wilson|318-78-4558|1999-06-19|william.wilson@example.com|+1-814-250-8279|3342 Oak St|Houston|TX|30917|MEDIUM|CREDIT
+CUST-00026|David Davis|790-11-9038|1979-01-10|david.davis@example.com|+1-901-411-9789|2454 Broadway St|Dallas|TX|48494|LOW|INVESTMENT
+CUST-00027|Barbara Rodriguez|659-43-9113|1956-10-03|barbara.rodriguez@example.com|+1-633-393-2079|1078 Main St|Phoenix|NY|74612|LOW|SAVINGS
+CUST-00028|Mary Garcia|669-31-9403|1990-08-13|mary.garcia@example.com|+1-613-394-9844|5840 Oak St|New York|TX|37516|LOW|INVESTMENT
+CUST-00029|Robert Jones|111-35-9119|1959-09-27|robert.jones@example.com|+1-293-333-7224|7172 Elm St|New York|TX|22165|MEDIUM|INVESTMENT
+CUST-00030|Linda Miller|597-50-8420|1971-05-23|linda.miller@example.com|+1-881-960-7721|5036 Elm St|New York|TX|86942|MEDIUM|INVESTMENT
+CUST-00031|Linda Miller|272-30-9031|1992-12-12|linda.miller@example.com|+1-308-255-9166|4457 Main St|Phoenix|TX|35835|HIGH|INVESTMENT
+CUST-00032|Barbara Wilson|835-33-8317|1988-09-18|barbara.wilson@example.com|+1-447-207-3997|2849 Main St|Chicago|TX|31497|MEDIUM|INVESTMENT
+CUST-00033|Michael Brown|208-55-6438|1996-11-06|michael.brown@example.com|+1-911-142-1441|6447 Park St|Phoenix|TX|11406|MEDIUM|CREDIT
+CUST-00034|Elizabeth Smith|721-85-5666|1970-04-27|elizabeth.smith@example.com|+1-464-600-8707|2817 Oak St|Chicago|TX|73424|MEDIUM|SAVINGS
+CUST-00035|Mary Miller|541-35-3099|1995-07-08|mary.miller@example.com|+1-637-819-1703|3356 Elm St|Houston|TX|33439|LOW|INVESTMENT
+CUST-00036|Linda Taylor|433-71-5684|1968-01-09|linda.taylor@example.com|+1-920-644-2753|7568 Main St|Dallas|AZ|29126|MEDIUM|SAVINGS
+CUST-00037|Jennifer Miller|377-17-3335|1952-05-11|jennifer.miller@example.com|+1-210-319-5205|4236 Oak St|Houston|NY|47162|LOW|CREDIT
+CUST-00038|Jennifer Martinez|721-81-1069|1981-03-18|jennifer.martinez@example.com|+1-937-487-6634|2851 Broadway St|Dallas|AZ|36752|LOW|CHECKING
+CUST-00039|James Jones|442-71-5540|1985-02-09|james.jones@example.com|+1-787-866-2313|5360 Broadway St|Phoenix|TX|71992|LOW|SAVINGS
+CUST-00040|William Williams|961-31-9403|1980-01-22|william.williams@example.com|+1-420-664-9432|2616 Elm St|Chicago|TX|64293|LOW|CHECKING
+CUST-00041|John Wilson|268-69-5240|1952-04-27|john.wilson@example.com|+1-556-481-9213|9290 Main St|Chicago|TX|60663|LOW|CHECKING
+CUST-00042|Robert Smith|606-52-8956|1956-10-14|robert.smith@example.com|+1-441-414-2320|3258 Elm St|New York|TX|88462|MEDIUM|SAVINGS
+CUST-00043|David Garcia|643-24-9820|1983-02-20|david.garcia@example.com|+1-561-447-8553|3699 Main St|New York|AZ|84262|HIGH|CREDIT
+CUST-00044|David Davis|218-63-9107|1992-06-27|david.davis@example.com|+1-799-128-8337|162 Broadway St|Chicago|IL|42861|MEDIUM|CHECKING
+CUST-00045|Mary Smith|363-45-4817|1957-01-24|mary.smith@example.com|+1-724-288-1351|4795 Park St|New York|TX|21076|MEDIUM|INVESTMENT
+CUST-00046|James Miller|948-20-6370|1952-08-08|james.miller@example.com|+1-539-901-5686|6087 Park St|Houston|NY|82144|MEDIUM|CHECKING
+CUST-00047|Patricia Smith|542-33-3367|1964-02-09|patricia.smith@example.com|+1-781-391-2760|1276 Elm St|Houston|IL|44720|MEDIUM|INVESTMENT
+CUST-00048|Jennifer Garcia|215-72-1785|1963-01-01|jennifer.garcia@example.com|+1-978-805-7029|2080 Park St|Chicago|TX|40613|HIGH|CHECKING
+CUST-00049|David Wilson|646-67-7854|1982-08-13|david.wilson@example.com|+1-274-208-1987|959 Oak St|Houston|IL|44890|LOW|SAVINGS
+CUST-00050|Barbara Martinez|975-51-3337|1981-09-11|barbara.martinez@example.com|+1-396-448-1799|6672 Broadway St|Houston|IL|95279|LOW|INVESTMENT
+CUST-00051|Elizabeth Brown|703-72-7855|1997-08-07|elizabeth.brown@example.com|+1-725-511-6064|9189 Park St|Houston|TX|16047|MEDIUM|INVESTMENT
+CUST-00052|Patricia Johnson|856-52-6818|1971-09-16|patricia.johnson@example.com|+1-385-553-3003|1330 Main St|Houston|TX|54573|HIGH|CREDIT
+CUST-00053|William Wilson|743-58-8544|1958-08-19|william.wilson@example.com|+1-825-124-7287|5995 Main St|Dallas|TX|14332|MEDIUM|SAVINGS
+CUST-00054|Mary Taylor|732-87-6730|1959-09-23|mary.taylor@example.com|+1-942-421-8024|4538 Park St|Dallas|TX|49776|LOW|INVESTMENT
+CUST-00055|Mary Johnson|960-99-5495|1958-04-27|mary.johnson@example.com|+1-945-390-4475|7075 Oak St|Houston|TX|25657|MEDIUM|INVESTMENT
+CUST-00056|Mary Smith|410-69-6720|1984-05-03|mary.smith@example.com|+1-600-350-3996|2259 Park St|Chicago|NY|56221|LOW|SAVINGS
+CUST-00057|David Smith|267-59-8404|1984-11-21|david.smith@example.com|+1-365-359-6686|2245 Elm St|Chicago|TX|44783|HIGH|CREDIT
+CUST-00058|Elizabeth Davis|144-88-8200|1982-04-04|elizabeth.davis@example.com|+1-963-722-1315|5470 Elm St|New York|AZ|97030|HIGH|SAVINGS
+CUST-00059|James Taylor|479-55-3343|1997-10-18|james.taylor@example.com|+1-581-412-2392|8152 Main St|Phoenix|TX|55409|MEDIUM|CREDIT
+CUST-00060|Linda Jones|296-52-2073|1996-12-22|linda.jones@example.com|+1-806-233-9829|6577 Elm St|Phoenix|IL|88628|LOW|INVESTMENT
+CUST-00061|Jennifer Taylor|614-56-3172|1971-10-17|jennifer.taylor@example.com|+1-639-908-7625|1699 Broadway St|New York|TX|89553|HIGH|SAVINGS
+CUST-00062|William Wilson|861-69-2952|1991-04-12|william.wilson@example.com|+1-605-324-3777|8515 Park St|Chicago|IL|56214|LOW|CREDIT
+CUST-00063|John Williams|448-81-9029|1954-02-25|john.williams@example.com|+1-361-556-4093|7169 Broadway St|Houston|TX|36671|LOW|CHECKING
+CUST-00064|James Brown|702-15-5886|1982-04-24|james.brown@example.com|+1-364-938-5521|7259 Park St|Dallas|AZ|73681|LOW|CREDIT
+CUST-00065|Patricia Wilson|834-91-8619|1989-02-13|patricia.wilson@example.com|+1-316-244-9665|3080 Oak St|Phoenix|TX|19164|MEDIUM|INVESTMENT
+CUST-00066|Michael Davis|645-11-7771|1956-03-16|michael.davis@example.com|+1-566-798-2817|4249 Main St|Houston|NY|85177|MEDIUM|SAVINGS
+CUST-00067|Barbara Jones|174-74-9807|1978-04-09|barbara.jones@example.com|+1-950-938-5269|6207 Park St|Dallas|TX|58007|MEDIUM|CREDIT
+CUST-00068|John Martinez|861-99-2633|1996-03-13|john.martinez@example.com|+1-604-272-7240|5774 Elm St|Chicago|AZ|74300|HIGH|CHECKING
+CUST-00069|Jennifer Miller|151-36-6930|1971-05-06|jennifer.miller@example.com|+1-665-403-3833|6652 Oak St|Houston|NY|32737|MEDIUM|CHECKING
+CUST-00070|Elizabeth Miller|827-60-8661|1991-05-15|elizabeth.miller@example.com|+1-276-783-9975|892 Park St|New York|AZ|93392|HIGH|CHECKING
+CUST-00071|Linda Miller|282-94-3782|1987-06-18|linda.miller@example.com|+1-720-871-7479|6064 Elm St|Phoenix|NY|88425|MEDIUM|SAVINGS
+CUST-00072|David Smith|525-25-8742|2000-03-09|david.smith@example.com|+1-211-744-9344|9367 Oak St|Houston|IL|19385|LOW|INVESTMENT
+CUST-00073|Barbara Rodriguez|565-31-8718|1954-11-17|barbara.rodriguez@example.com|+1-676-896-3600|2949 Main St|New York|NY|73151|HIGH|SAVINGS
+CUST-00074|William Martinez|565-99-8146|1951-11-07|william.martinez@example.com|+1-615-114-9371|3759 Oak St|Chicago|TX|16192|LOW|INVESTMENT
+CUST-00075|Michael Wilson|786-26-8356|1999-05-18|michael.wilson@example.com|+1-988-165-7115|6758 Oak St|New York|TX|22001|HIGH|CHECKING
+CUST-00076|Robert Jones|759-74-1935|1987-06-05|robert.jones@example.com|+1-883-902-7023|3628 Park St|Phoenix|IL|14682|MEDIUM|CHECKING
+CUST-00077|David Taylor|606-84-8064|1965-01-10|david.taylor@example.com|+1-459-241-4057|3985 Oak St|Phoenix|NY|74519|LOW|SAVINGS
+CUST-00078|David Taylor|187-19-5838|1977-02-01|david.taylor@example.com|+1-414-390-8297|1230 Main St|Chicago|IL|48999|MEDIUM|SAVINGS
+CUST-00079|Linda Rodriguez|717-95-9393|1953-12-04|linda.rodriguez@example.com|+1-906-761-1980|8844 Main St|Phoenix|NY|22974|LOW|CHECKING
+CUST-00080|John Brown|283-23-3753|1976-02-13|john.brown@example.com|+1-693-300-8618|6399 Oak St|Phoenix|AZ|80572|MEDIUM|SAVINGS
+CUST-00081|Michael Smith|729-17-6786|1959-09-27|michael.smith@example.com|+1-321-228-4100|2387 Oak St|Dallas|NY|20399|MEDIUM|SAVINGS
+CUST-00082|William Miller|616-18-1004|1971-07-24|william.miller@example.com|+1-503-142-9254|647 Main St|Phoenix|NY|29641|LOW|INVESTMENT
+CUST-00083|John Johnson|408-33-7416|1974-12-06|john.johnson@example.com|+1-602-898-5217|7788 Oak St|Houston|AZ|74618|MEDIUM|INVESTMENT
+CUST-00084|Barbara Johnson|148-62-9077|2000-08-23|barbara.johnson@example.com|+1-204-210-3487|7867 Park St|Houston|AZ|11845|HIGH|CREDIT
+CUST-00085|Michael Wilson|872-15-7025|1986-09-03|michael.wilson@example.com|+1-409-758-2499|2004 Oak St|New York|TX|74713|MEDIUM|CHECKING
+CUST-00086|James Davis|695-39-4249|1963-05-22|james.davis@example.com|+1-939-637-5849|2455 Oak St|Phoenix|TX|45728|HIGH|SAVINGS
+CUST-00087|Michael Taylor|949-40-2255|1969-05-16|michael.taylor@example.com|+1-364-866-2185|3287 Park St|Dallas|TX|60891|LOW|SAVINGS
+CUST-00088|Patricia Rodriguez|596-49-1523|1950-07-09|patricia.rodriguez@example.com|+1-907-346-3647|1912 Main St|Phoenix|NY|23028|HIGH|CHECKING
+CUST-00089|Mary Taylor|384-17-1280|1953-12-18|mary.taylor@example.com|+1-855-313-5609|130 Main St|Phoenix|AZ|46440|MEDIUM|INVESTMENT
+CUST-00090|Barbara Brown|650-35-8615|1979-08-28|barbara.brown@example.com|+1-304-635-9572|3986 Main St|Dallas|TX|85550|MEDIUM|CREDIT
+CUST-00091|Patricia Johnson|458-71-8722|1997-12-06|patricia.johnson@example.com|+1-524-687-4133|9223 Elm St|New York|TX|90121|LOW|INVESTMENT
+CUST-00092|Robert Garcia|666-36-8157|1996-05-19|robert.garcia@example.com|+1-221-375-6950|1236 Oak St|Dallas|TX|52889|MEDIUM|INVESTMENT
+CUST-00093|James Smith|114-73-1539|1965-10-17|james.smith@example.com|+1-333-542-1811|5150 Park St|Houston|TX|14098|LOW|CREDIT
+CUST-00094|Elizabeth Garcia|470-69-6346|1972-05-11|elizabeth.garcia@example.com|+1-822-990-1178|542 Broadway St|Chicago|NY|41344|LOW|CHECKING
+CUST-00095|David Miller|554-68-4224|1969-08-24|david.miller@example.com|+1-987-375-4790|3887 Main St|New York|IL|58167|HIGH|SAVINGS
+CUST-00096|Barbara Smith|957-54-2306|1955-12-15|barbara.smith@example.com|+1-838-354-4091|7078 Oak St|Phoenix|IL|87339|LOW|CREDIT
+CUST-00097|Jennifer Smith|791-64-5132|1979-01-17|jennifer.smith@example.com|+1-963-243-7135|6932 Oak St|Houston|IL|59879|HIGH|CREDIT
+CUST-00098|Barbara Martinez|877-74-4745|1980-01-14|barbara.martinez@example.com|+1-743-137-1662|4287 Oak St|Phoenix|TX|68838|LOW|CHECKING
+CUST-00099|Patricia Smith|798-26-6709|1980-10-07|patricia.smith@example.com|+1-473-134-5366|741 Elm St|Dallas|TX|80596|LOW|CHECKING
+CUST-00100|Mary Brown|780-67-3076|1964-11-21|mary.brown@example.com|+1-887-821-2711|4423 Park St|Chicago|NY|71262|HIGH|CHECKING
